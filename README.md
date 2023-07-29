@@ -35,11 +35,11 @@ Print the coefficients and intercepts of the linear regression model.
 
 Make a prediction.
 
-## Step 7:
+### Step 7:
 
 Print the predicted CO2 emissions.
 
-## Step 8:
+### Step 8:
 
 End the Program.
 
